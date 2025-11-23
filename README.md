@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/DATA-DOG/go-txdb.svg?branch=master)](https://travis-ci.org/DATA-DOG/go-txdb)
 [![GoDoc](https://godoc.org/github.com/DATA-DOG/go-txdb?status.svg)](https://godoc.org/github.com/DATA-DOG/go-txdb)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcorsmed%2Fgo-txdb.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcorsmed%2Fgo-txdb?ref=badge_shield)
 
 # Single transaction based sql.Driver for GO
 
@@ -89,3 +90,6 @@ godoc"
 [golang]: https://golang.org/  "GO programming language"
 
 [license]:http://en.wikipedia.org/wiki/BSD_licenses "The three clause BSD license"
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcorsmed%2Fgo-txdb.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcorsmed%2Fgo-txdb?ref=badge_large)
